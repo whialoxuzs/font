@@ -27,15 +27,15 @@
 
 ## ✏️ Font Line-Up
 
-| Font Family | Vibe Check | Perfect For | Sample |
-|-------------|------------|-------------|--------|
-| **Builder Sans** | Corporate-but-cool | App UIs, banners | `BUILD THE FUTURE` |
-| **Source Sans Pro** | Clean & friendly | Articles, code snippets | `SOURCE OF TRUTH` |
-| **iCiel Candena** | Vietnamese retro chic | Headings, posters | `SÀI GÒN 1975` |
-| **TikTok Sans** | Trend-core | Memes, reels captions | `#FYP` |
-| **Times New Roman** | Evergreen classic | Essays, formal docs | `ONCE UPON A TIME` |
-| **unicode16.4** | Glyph galaxy | Emoji substitutes, symbols | `★☆☂︎♞` |
-| **And More…** | Mystery box :P | Surprise creative bursts | `???` |
+| &nbsp; | Font Family | Vibe Check | Perfect For | Sample |
+|:--:|---|---|---|---|
+| <img src="https://custom-icon-badges.demolab.com/badge/-FFE075?logo=construct3&logoColor=black" alt="Builder Icon" height="20"/> | **Builder Sans** | Corporate-but-cool 🏢 | App UIs, banners | `BUILD THE FUTURE` |
+| <img src="https://custom-icon-badges.demolab.com/badge/-0FA958?logo=code&logoColor=white" alt="Code Icon" height="20"/> | **Source Sans Pro** | Clean & friendly 📚 | Articles, code snippets | `SOURCE OF TRUTH` |
+| <img src="https://custom-icon-badges.demolab.com/badge/-D21F3C?logo=vietnamesezodiac&logoColor=white" alt="VN Retro Icon" height="20"/> | **iCiel Candena** | Vietnamese retro chic 🎟️ | Headings, posters | `SÀI GÒN 1975` |
+| <img src="https://custom-icon-badges.demolab.com/badge/-000000?logo=tiktok&logoColor=white" alt="TikTok Icon" height="20"/> | **TikTok Sans** | Trend-core 🔥 | Memes, reels captions | `#FYP` |
+| <img src="https://custom-icon-badges.demolab.com/badge/-21409A?logo=book&logoColor=white" alt="Classic Icon" height="20"/> | **Times New Roman** | Evergreen classic 🕰️ | Essays, formal docs | `ONCE UPON A TIME` |
+| <img src="https://custom-icon-badges.demolab.com/badge/-8A2BE2?logo=utf&logoColor=white" alt="Unicode Icon" height="20"/> | **unicode16.4** | Glyph galaxy 🌌 | Emoji subs, symbols | `★☆☂︎♞` |
+| <img src="https://custom-icon-badges.demolab.com/badge/-FF69B4?logo=magic&logoColor=white" alt="Mystery Icon" height="20"/> | **And More…** | Mystery box :P | Surprise creative bursts | `???` |
 
 ---
 
