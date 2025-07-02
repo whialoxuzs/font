@@ -87,9 +87,9 @@
 
 ## 🔥💫 How to apply/download fonts 💫🔥
 
-#### 🪟 **Windows**
+#### 🪟 **Windows** ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" style="display:inline-block; vertical-align:middle;" />
+- **Method:** Right-click → **Install**
 
 - **Method:** Right-click → **Install**
 
