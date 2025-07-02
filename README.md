@@ -69,7 +69,7 @@
 
 ---
 
-### 💫 **`Unicode16.4`**
+### 💫 **`Unicode 16.4`**
 ![Unicode 16.4 Badge](https://img.shields.io/badge/-unicode16.4-8A2BE2?style=for-the-badge&logo=unitednations&logoColor=white)  
 **_Vibe Check:_** `Glyph galaxy 🌌`  
 **_Perfect For:_** `Unicode symbols, emoji substitutes, terminal styling`  
