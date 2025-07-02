@@ -25,17 +25,63 @@
 
 ---
 
-## ✨🖋️ Font Line-Up (Glow Edition) 🖋️✨
+## ✨🖋️ Font Line-Up (Supernova Showcase) 🖋️✨
 
-| &nbsp; | Font Family | Vibe Check | Perfect For | Sample |
-|:--:|---|---|---|---|
-| <img src="https://img.shields.io/badge/-Builder%20Sans-FFE075?style=for-the-badge&logo=archicad&logoColor=black" alt="Builder Sans Badge"/> | **Builder Sans** | Corporate-but-cool 🏢 | App UIs, banners | `BUILD THE FUTURE` |
-| <img src="https://img.shields.io/badge/-Source%20Sans%20Pro-0FA958?style=for-the-badge&logo=code&logoColor=white" alt="Source Sans Pro Badge"/> | **Source Sans Pro** | Clean & friendly 📚 | Articles, code snippets | `SOURCE OF TRUTH` |
-| <img src="https://img.shields.io/badge/-iCiel%20Candena-D21F3C?style=for-the-badge&logo=retroarch&logoColor=white" alt="iCiel Candena Badge"/> | **iCiel Candena** | Vietnamese retro chic 🎟️ | Headings, posters | `SÀI GÒN 1975` |
-| <img src="https://img.shields.io/badge/-TikTok%20Sans-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Sans Badge"/> | **TikTok Sans** | Trend-core 🔥 | Memes, reels captions | `#FYP` |
-| <img src="https://img.shields.io/badge/-Times%20New%20Roman-21409A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Times New Roman Badge"/> | **Times New Roman** | Evergreen classic 🕰️ | Essays, formal docs | `ONCE UPON A TIME` |
-| <img src="https://img.shields.io/badge/-unicode16.4-8A2BE2?style=for-the-badge&logo=unitednations&logoColor=white" alt="Unicode Badge"/> | **unicode16.4** | Glyph galaxy 🌌 | Emoji subs, symbols | `★☆☂︎♞` |
-| <img src="https://img.shields.io/badge/-And%20More…-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white" alt="Mystery Box Badge"/> | **And More…** | Mystery box :P | Surprise creative bursts | `???` |
+---
+
+### 🌟 **Builder Sans**
+<img src="https://img.shields.io/badge/-Builder%20Sans-FFE075?style=for-the-badge&logo=archicad&logoColor=black" />
+- **Vibe Check:** Corporate-but-cool 🏢  
+- **Perfect For:** App UIs, banners, modern websites  
+- **Sample:** `BUILD THE FUTURE`
+
+---
+
+### 📗 **Source Sans Pro**
+<img src="https://img.shields.io/badge/-Source%20Sans%20Pro-0FA958?style=for-the-badge&logo=code&logoColor=white" />
+- **Vibe Check:** Clean & friendly 📚  
+- **Perfect For:** Articles, blogs, code snippets  
+- **Sample:** `SOURCE OF TRUTH`
+
+---
+
+### 🧧 **iCiel Candena**
+<img src="https://img.shields.io/badge/-iCiel%20Candena-D21F3C?style=for-the-badge&logo=retroarch&logoColor=white" />
+- **Vibe Check:** Vietnamese retro chic 🎟️  
+- **Perfect For:** Posters, headlines, vintage vibes  
+- **Sample:** `SÀI GÒN 1975`
+
+---
+
+### 🎵 **TikTok Sans**
+<img src="https://img.shields.io/badge/-TikTok%20Sans-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+- **Vibe Check:** Trend-core 🔥  
+- **Perfect For:** Memes, captions, reels, short video edits  
+- **Sample:** `#FYP`
+
+---
+
+### 📚 **Times New Roman**
+<img src="https://img.shields.io/badge/-Times%20New%20Roman-21409A?style=for-the-badge&logo=readthedocs&logoColor=white" />
+- **Vibe Check:** Evergreen classic 🕰️  
+- **Perfect For:** Essays, formal docs, school work  
+- **Sample:** `ONCE UPON A TIME`
+
+---
+
+### 💫 **unicode16.4**
+<img src="https://img.shields.io/badge/-unicode16.4-8A2BE2?style=for-the-badge&logo=unitednations&logoColor=white" />
+- **Vibe Check:** Glyph galaxy 🌌  
+- **Perfect For:** Unicode symbols, emoji substitutes, terminal styling  
+- **Sample:** `★☆☂︎♞`
+
+---
+
+### 🎁 **And More…**
+<img src="https://img.shields.io/badge/-And%20More…-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white" />
+- **Vibe Check:** Mystery box :P  
+- **Perfect For:** Surprise creative bursts, wildcards, oddball aesthetics  
+- **Sample:** `???`
 
 ---
 
