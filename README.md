@@ -85,36 +85,39 @@
 
 ---
 
-## 🔧🚀 Quick Use Guide (Celestial Edition)
-
----
-
-### 📥 **Download the Fonts**
-> Get the complete **`.zip`** from the [`/fonts`](./fonts) folder.  
-> ✨ Inside: A galactic collection of fonts ready to glow up your projects.
-
----
-
-### 🧠 **How to Install (per OS)**
-
----
+## 🔥💫 How to apply/download fonts 💫🔥
 
 #### 🪟 **Windows**
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" style="display:inline-block; vertical-align:middle;" />
+
 - **Method:** Right-click → **Install**
 
 ---
 
 #### 🍎 **macOS**
-<img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge" style="display:inline-block; vertical-align:middle;" />
+
 - **Method:** Double-click → **Install Font**
 
 ---
 
 #### 🐧 **Linux**
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="display:inline-block; vertical-align:middle;" />
+
 - **Method:** Copy fonts to `~/.fonts`  
-- Then run:  
+
+- Then run:
+
   ```bash
   fc-cache -f -v
-  ```
+
+#### 🤖 Android
+
+<img    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge" style="display:inline-block; vertical-align:middle;" />
+
+- **Method 1 (Root)**: Copy *fonts* to **/system/fonts**
+
+- **Method 2 (No Root)**: Use **font** manager apps like *iFont* or *zFont*
