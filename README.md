@@ -20,8 +20,8 @@
 
 ---
 
-> **Heads-up :D**  
-> Loading these fonts on low-end devices may cause *excessive aesthetic pleasure* and spontaneous “yipe” moments. Handle with flair!
+> **Heads-up**  
+> Loading these fonts on low-end devices may cause *excessive aesthetic pleasure* and spontaneous moments. Handle with flair!
 
 ---
 
@@ -79,7 +79,7 @@
 
 ### 🎁 **`And More…`**
 ![And More Badge](https://img.shields.io/badge/-And%20More…-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white)  
-**_Vibe Check:_** `Mystery box :P`  
+**_Vibe Check:_** `Mystery box`  
 **_Perfect For:_** `Surprise creative bursts, wildcards, oddball aesthetics`  
 **_Sample:_** `???`
 
