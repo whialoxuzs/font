@@ -85,12 +85,35 @@
 
 ---
 
-## 🔧 Quick Use Guide
+## 🔧🚀 Quick Use Guide (Celestial Edition)
 
-1. **Download** the whole `.zip` from `/fonts`.
-2. **Install** on:
-   ```text
-   • Windows — Right-click ▸ Install
-   • macOS   — Double-click ▸ Install Font
-   • Linux   — ~/.fonts + fc-cache -f -v
-   • Android — Copy to /system/fonts (root) or use iFont
+---
+
+### 📥 **Download the Fonts**
+> Get the complete **`.zip`** from the [`/fonts`](./fonts) folder.  
+> ✨ Inside: A galactic collection of fonts ready to glow up your projects.
+
+---
+
+### 🧠 **How to Install (per OS)**
+
+---
+
+#### 🪟 **Windows**
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+- **Method:** Right-click → **Install**
+
+---
+
+#### 🍎 **macOS**
+<img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+- **Method:** Double-click → **Install Font**
+
+---
+
+#### 🐧 **Linux**
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+- **Method:** Copy fonts to `~/.fonts`  
+- Then run:  
+  ```bash
+  fc-cache -f -v
