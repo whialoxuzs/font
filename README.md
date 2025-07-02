@@ -117,3 +117,4 @@
 - Then run:  
   ```bash
   fc-cache -f -v
+  ```
